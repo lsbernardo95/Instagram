@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
 - [x] User can sign up to create a new account. (1pt)
 - [x] User can log in. (1pt)
-- [ ] User can take a photo, add a caption, and post it to the server. (3pt)
+- [x] User can take a photo, add a caption, and post it to the server. (3pt)
 - [ ] User can view the last 20 posts. (4pts)
 
 The following **bonus** features are implemented:
@@ -25,4 +25,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/DJ4n6wV2Fx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
