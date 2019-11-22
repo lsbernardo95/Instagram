@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0E109A0D237FC8F4002DDDED /* PostCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E109A0C237FC8F4002DDDED /* PostCellTableViewCell.swift */; };
+		0E86168D2387EC6C005E0847 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E86168C2387EC6C005E0847 /* CommentCell.swift */; };
 		0EAE3BFE237F8E4800AE4DFB /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EAE3BFD237F8E4800AE4DFB /* LoginViewController.swift */; };
 		0EAE3C00237F8E5300AE4DFB /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EAE3BFF237F8E5300AE4DFB /* FeedViewController.swift */; };
 		0EAE3C04237F9E8500AE4DFB /* instagram_assets in Resources */ = {isa = PBXBuildFile; fileRef = 0EAE3C03237F9E8500AE4DFB /* instagram_assets */; };
@@ -44,6 +45,7 @@
 /* Begin PBXFileReference section */
 		09113AC44209E817C3B302DD /* Pods-Instagram-InstagramUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instagram-InstagramUITests.debug.xcconfig"; path = "Target Support Files/Pods-Instagram-InstagramUITests/Pods-Instagram-InstagramUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		0E109A0C237FC8F4002DDDED /* PostCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCellTableViewCell.swift; sourceTree = "<group>"; };
+		0E86168C2387EC6C005E0847 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		0EAE3BFD237F8E4800AE4DFB /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		0EAE3BFF237F8E5300AE4DFB /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		0EAE3C03237F9E8500AE4DFB /* instagram_assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = instagram_assets; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 				0EAE3BFF237F8E5300AE4DFB /* FeedViewController.swift */,
 				0EAE3C05237FA27C00AE4DFB /* CameraViewController.swift */,
 				0E109A0C237FC8F4002DDDED /* PostCellTableViewCell.swift */,
+				0E86168C2387EC6C005E0847 /* CommentCell.swift */,
 			);
 			path = Instagram;
 			sourceTree = "<group>";
@@ -426,6 +429,7 @@
 				0E109A0D237FC8F4002DDDED /* PostCellTableViewCell.swift in Sources */,
 				0EAE3C00237F8E5300AE4DFB /* FeedViewController.swift in Sources */,
 				0EEAE0C6237F858A00849A1A /* SceneDelegate.swift in Sources */,
+				0E86168D2387EC6C005E0847 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
